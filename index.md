@@ -4,7 +4,7 @@
 ### Email: tmskinner@bsu.edu
 
 ## About me:
-  I am a dual major in computer science and computer technology at Ball State University, graduating in May 2020. 
+####  I am a dual major in computer science and computer technology at Ball State University, graduating in May 2020. 
   
   
 ## My Projects at BSU:
