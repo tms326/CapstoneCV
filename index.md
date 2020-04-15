@@ -9,5 +9,5 @@
   
 ## My Projects at BSU:
 ### Capstone Project:
-![My helpful screenshot](/assets/Capture1.jpg)
+![My helpful screenshot](/assets/Capture1.PNG)
 
