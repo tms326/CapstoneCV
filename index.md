@@ -7,6 +7,7 @@
 ####  I am a dual major in computer science and computer technology at Ball State University, graduating in May 2020. 
   
 ---
+----
 ## My Projects at BSU:
 ### CS Capstone Project: Betterflye
 ![My helpful screenshot](/assets/Capture1.PNG)
@@ -41,3 +42,22 @@
 ### College: Ball State University: 2016-2020 - majors: Computer Science & Computer Technology.
 ---
 ----
+## Work Experience:
+
+### Accounting Tutor - Indiana Tech: 2015-2016
+### Game Designer - Ball State University Center for Autism Spectrum Disorder: June 2016 - June 2018
+### Lab Technician - Ball State University Computer Technology Department: August 2018 - May 2019
+### Networking Assistant - Ball State University IT: May 2019 - May 2020
+---
+----
+## Technical Skills:
+
+#### I have worked within the following programming/markup languages:
+-Python
+-Java
+-Kotlin
+-PHP
+-C
+-C#
+-C++
+
