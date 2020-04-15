@@ -78,12 +78,15 @@
 
 ---
 ----
+
 ## Hobbies:
 - Video Games
 - Playing with servers and networking hardware like some kind of nerd.
 - Designing networks like some kind of nerd.
+
 ---
 ----
+
 ## Sudo:
 #### This is Sudo. She's my dog. She's named after the Unix program of the same name. It's a fitting name.
 ![My helpful screenshot](/assets/sudo.jpg)
