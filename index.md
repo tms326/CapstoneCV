@@ -88,5 +88,5 @@
 ----
 
 ## Sudo:
-#### This is Sudo. She's my dog. She's named after the Unix-like program of the same name. It's a fitting name.
+#### This is Sudo. She's my dog. She's named after the Unix-like program and command of the same name. It's a fitting name.
 ![My helpful screenshot](/assets/sudo.jpg)
