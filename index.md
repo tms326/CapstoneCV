@@ -8,6 +8,6 @@
   
   
 ## My Projects at BSU:
-### Capstone:
- ![useful image]({{ site.url }}/assets/image.png)
- <strong>ass</strong>
+### Capstone Project:
+ ![useful image]({{ site.url }}/assets/capture1.png)
+
