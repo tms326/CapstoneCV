@@ -45,7 +45,7 @@
 ## Work Experience:
 
 ### Accounting Tutor - Indiana Tech: 2015-2016
-### Game Designer - Ball State University Center for Autism Spectrum Disorder: June 2016 - June 2018
+### Game Designer - Ball State University Center for Autism Spectrum Disorder: June 2016 - July 2018
 ### Lab Technician - Ball State University Computer Technology Department: August 2018 - May 2019
 ### Networking Assistant - Ball State University IT: May 2019 - May 2020
 ---
@@ -53,11 +53,37 @@
 ## Technical Skills:
 
 #### I have worked within the following programming/markup languages:
-- Python
-- Java
-- Kotlin
-- PHP
-- C
-- C#
-- C++
+- Python (PyCharm, IDLE, VIM)
+- Java (IntelliJ)
+- Kotlin (IntelliJ)
+- PHP (PHPStorm, Webstorm, VIM)
+- C (CLion, VIM)
+- C# (Visual Studio)
+- C++ (CLion)
+- HTML (PHPStorm, Webstorm, VIM)
+- CSS (PHPStorm, Webstorm, VIM)
+- JavaScript (PHPStorm, Webstorm, VIM)
 
+#### Some proficiencies:
+- Linux server and desktop environments. Setup, maintenance, & troubleshooting. - Shell scripting & automation.
+- Windows Server and desktop environments. Setup, maintenance, & troubleshooting. - Powershell automation.
+- Cisco IOS. Configuration, deployment, & maintenance. - Switches - both layer 2 & 3, routers + associated modules, & firewalls.
+- Cisco Wireless Technologies - WLC, LWAPP, CAPWAP
+- Extensive knowledge of both the OSI model and the TCP/IP Model
+- Networking technologies - MPLS, BGP, HSRP, VRRP, GLBP, OSPF, EIGRP, RIP(ugh), STP & VTP, etc.
+- Virtualization technologies - VMWare, VirtualBox.
+- Hypervisors - Citrixc Hypervisor (Xenserver), ESXi, Hyper-V, etc.
+- Container systems - docker, podman.
+- Network automation - SolarWinds, Netmiko
+
+---
+----
+## Hobbies:
+- Video Games
+- Playing with servers and networking hardware like some kind of nerd.
+- Designing networks like some kind of nerd.
+---
+----
+## Sudo:
+#### This is Sudo. She's my dog. She's named after the Unix program of the same name. It's a fitting name.
+![My helpful screenshot](/assets/sudo.jpg)
