@@ -53,11 +53,11 @@
 ## Technical Skills:
 
 #### I have worked within the following programming/markup languages:
-*Python
-*Java
-*Kotlin
-*PHP
-*C
-*C#
-*C++
+- Python
+- Java
+- Kotlin
+- PHP
+- C
+- C#
+- C++
 
