@@ -9,4 +9,4 @@
   
 ## My Projects at BSU:
 ### Capstone:
- 
+ ![useful image]({{ site.url }}/assets/image.png)
