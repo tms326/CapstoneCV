@@ -8,8 +8,7 @@
   
 ---
 ## My Projects at BSU:
-## CS Capstone Project:
-### Betterflye:
+### CS Capstone Project: Betterflye
 ![My helpful screenshot](/assets/Capture1.PNG)
 
 ##### Betterflye is a social engagement platform that allows users to join and create initiatives, log their community impact, and share and send their appreciation to each other.
@@ -33,5 +32,12 @@
 ## CT 410:
 
 ##### The CT410 project was a semester-long massive-scale network built across multiple sites. Initially the network was just one site, but during the course the network was live-migrated to another site without losing connectivity. Even later in the semester the class combined all of their networks, where I took a leadership position helping the majority of the class coordinate their networks and the set up of the public network between them.
+---
+----
+## Education:
+
+### High School: Yorktown High School class of 2014.
+### College: Indiana Tech: 2014-2016 - major: Accounting.
+### College: Ball State University: 2016-2020 - majors: Computer Science & Computer Technology.
 ---
 ----
